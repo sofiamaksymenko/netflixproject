@@ -17,6 +17,13 @@ The objective of this project was to:
 * The majority of content was released in **North America** and **Europe**.
 * **2020** had the highest number of releases, likely impacted by the **COVID-19 pandemic**, which shifted production and release strategies.
 
+  ## Additional Findings
+* Content Acquisition Timeline: A sharp increase in content began around 2016, coinciding with Netflix's global expansion to 130+ new countries.
+* Reduced Acquisition Lag: Initially, content took several years to appear on Netflix post-release. By 2016, that lag had significantly decreased, suggesting faster licensing and original production.
+* Dominant Genres: The most frequent genres were Drama, Documentary, and Comedy, reflecting Netflix's broad storytelling strategy.
+* Top Countries: The United States, India, and the United Kingdom were the top contributors to Netflix's content. In contrast, countries like Japan and South Korea showed a stronger emphasis on TV shows.
+* Pandemic Spike: A surge in 2020 releases likely corresponds to higher demand for streaming content during global lockdowns.
+
 ## Dashboard
 
 You can explore the interactive Tableau dashboard here:
