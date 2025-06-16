@@ -1,4 +1,4 @@
-# Netflix Data Analysis (2008–2021)
+# Netflix Data Analysis 
 
 This project analyzes the Netflix content catalog from the years **2008 to 2021**, focusing on the release patterns of **TV Series vs. Films**. The dataset was cleaned, explored, and visualized using tools such as Tableau.
 
