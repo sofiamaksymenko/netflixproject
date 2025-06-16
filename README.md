@@ -24,9 +24,3 @@ You can explore the interactive Tableau dashboard here:
 👉 [**Netflix Dashboard on Tableau Public**](https://public.tableau.com/app/profile/sofia.maksymenko/viz/Netflix_17391946256480/Netflix)
 
 
-
-## 📁 Files in Repository
-
-* `netflix_titles.csv`: Original dataset
-* `README.md`: Project documentation
-
